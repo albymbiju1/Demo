@@ -49,3 +49,4 @@ function isInvalidInput(str) {
   
     output.classList.remove('hide');
   }
+  /* Ended */
